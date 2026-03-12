@@ -1,5 +1,5 @@
 # Heart Disease Prediction Model
-"ML model predicting heart disease using Random Forest"
+ML model predicting heart disease using Random Forest
 
 ## Overview
 A machine learning model that predicts 
